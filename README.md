@@ -6,11 +6,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   </a>
+
   <a href="#">
-    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="Platform">
+    <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey" alt="Platform">
   </a>
 </p>
 
